@@ -1,7 +1,7 @@
 
 /*< + program comment="This is an INSTANCE" />*/
 
-/*< + operator_component op="/*<@led_name/>*/" func="AddNums"      help="Add two numbers"      />*/
+/*< + operator_component op="+" func="AddNums"      help="Add two numbers"      />*/
 
 /*< real_help output="@{$OUTPUT_HELP_FILE}" comment="This is an INPUT" />*/
 /*< program comment="This is also another INPUT" />*/
