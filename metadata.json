@@ -45,7 +45,7 @@
             "ParameterID": "led_name",
             "ParameterName": "led_name",
             "ParameterDefultValue": "+",
-            "ParameterValue": "",
+            "ParameterValue": "+",
             "ParameterDescription": "Name for your LED",
             "ParameterType": "TextBox"
           },
