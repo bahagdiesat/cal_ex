@@ -48,14 +48,6 @@
             "ParameterValue": "+",
             "ParameterDescription": "Name for your LED",
             "ParameterType": "TextBox"
-          },
-          {
-            "ParameterID": "opr",
-            "ParameterName": "opr",
-            "ParameterDefultValue": "+",
-            "ParameterValue": "+",
-            "ParameterDescription": "How long to blink?",
-            "ParameterType": "TextBox"
           }
         ]
       }
