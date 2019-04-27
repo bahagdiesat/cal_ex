@@ -1,7 +1,7 @@
 /*<  operator_functions >*/
 private static double /*< @func />*/(double a, double b)
 {
-	return a /*< @op />*/ b;
+	return a /*< @led_name />* b;
 }
 
 /*</ operator_functions >*/
