@@ -50,10 +50,10 @@
             "ParameterType": "TextBox"
           },
           {
-            "ParameterID": "led_pulse",
-            "ParameterName": "led_pulse",
-            "ParameterDefultValue": "1000",
-            "ParameterValue": "1000",
+            "ParameterID": "opr",
+            "ParameterName": "opr",
+            "ParameterDefultValue": "+",
+            "ParameterValue": "+",
             "ParameterDescription": "How long to blink?",
             "ParameterType": "TextBox"
           }
