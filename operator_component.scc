@@ -1,7 +1,7 @@
 /*<  operator_functions >*/
 private static double /*< @func />*/(double a, double b)
 {
-	return a /*<@led_name/>*/ b;
+	return a /*<@opr/>*/ b;
 }
 
 /*</ operator_functions >*/
@@ -9,7 +9,7 @@ private static double /*< @func />*/(double a, double b)
 
 
 /*<  operator_help_line >*/
-Console.WriteLine("CS_SAMPLE a /*<@led_name/>*/ b          /*< @help />*/");
+Console.WriteLine("CS_SAMPLE a /*<@opr/>*/ b          /*< @help />*/");
 /*</ operator_help_line >*/
 
 
@@ -21,8 +21,8 @@ Console.WriteLine("CS_SAMPLE a /*<@led_name/>*/ b          /*< @help />*/");
 
 
 /*<  operator_switch_case >*/
-case "/*<@led_name/>*/":
-	Console.WriteLine(a + " " + led_name + " " + b + " = " + /*< @func />*/(a,b));
+case "/*<@opr/>*/":
+	Console.WriteLine(a + " " + opr + " " + b + " = " + /*< @func />*/(a,b));
 	break;
 /*</ operator_switch_case >*/
 
